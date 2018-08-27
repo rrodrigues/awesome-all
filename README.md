@@ -1,6 +1,9 @@
 # awesome-all
 
 
+## All-in-all
+https://github.com/sindresorhus/awesome#readme
+
 ## Android
 
 ### Tools
